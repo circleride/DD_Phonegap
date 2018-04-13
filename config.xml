@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns   = "http://www.w3.org/ns/widgets" xmlns:gap   = "http://phonegap.com/ns/1.0" id= "tk.dia-d.server" version     = "0.0.1" >
+<widget xmlns   = "http://www.w3.org/ns/widgets" xmlns:gap   = "http://phonegap.com/ns/1.0" id= "tk.dia-d.app" version     = "0.0.1" >
 
 <name>Dia D</name>
 <description>Dia D</description>
-<author href="http://anon.dia-d.tk" email="soporte@dia-d.tk">AA</author>
+<author href="http://app.dia-d.tk" email="soporte@dia-d.tk">Evidencia Dia D</author>
 
 <!-- content src="index.html"/ -->
 <!--
