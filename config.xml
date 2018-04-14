@@ -41,8 +41,8 @@
 <preference name="MediaPlaybackRequiresUserAction" value="false"/>
 
 <plugin name="cordova-plugin-battery-status" />
-<plugin name="cordova-plugin-camera" />
-<plugin name="cordova-plugin-media-capture" />
+<plugin name="cordova-plugin-camera" spec="4.0.0" />
+<plugin name="cordova-plugin-media-capture" spec="3.0.0" />
 <plugin name="cordova-plugin-console" />
 <plugin name="cordova-plugin-contacts" />
 <plugin name="cordova-plugin-device" />
