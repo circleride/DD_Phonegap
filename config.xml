@@ -17,7 +17,7 @@
 <preference name='phonegap-version' value='cli-6.5.0' />
 <preference name='phonegap-version' value='cli-8.0.0' />
 -->
-
+<preference name="phonegap-version" value="cli-7.0.1" />
 <preference name="DisallowOverscroll" value="true"/>
 <preference name="android-minSdkVersion" value="14"/>
 <preference name="permissions"                value="none"/>
@@ -41,8 +41,8 @@
 <preference name="MediaPlaybackRequiresUserAction" value="false"/>
 
 <plugin name="cordova-plugin-battery-status" />
-<plugin name="cordova-plugin-camera" spec="2.4.1" />
-<plugin name="cordova-plugin-media-capture" spec="2.0.0" />
+<!--<plugin name="cordova-plugin-camera" spec="2.4.1" />
+<plugin name="cordova-plugin-media-capture" spec="2.0.0" />-->
 <plugin name="cordova-plugin-console" />
 <plugin name="cordova-plugin-contacts" />
 <plugin name="cordova-plugin-device" />
@@ -51,12 +51,16 @@
 <plugin name="cordova-plugin-dialogs" />
 
 <!--  spec="~4.3.3"  -->
-<plugin name="cordova-plugin-file" source="npm" />
+<!--<plugin name="cordova-plugin-file" source="npm" />-->
 <!-- <plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.3" /> -->
+<plugin name="cordova-plugin-media-capture" source="npm" spec="2.0.0"/>
+<plugin name="cordova-plugin-file-transfer" spec="~1.7.0" />
+<plugin name="cordova-plugin-media" spec="~4.0.0" />
+<plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
 
 <plugin name="cordova-plugin-geolocation" />
 <plugin name="cordova-plugin-inappbrowser" />
-<plugin name="cordova-plugin-media" />
+<!--<plugin name="cordova-plugin-media" />-->
 <plugin name="cordova-plugin-network-information" />
 <plugin name="cordova-plugin-splashscreen" />
 <plugin name="cordova-plugin-vibration" />
