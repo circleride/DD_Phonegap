@@ -42,7 +42,7 @@
 
 <plugin name="cordova-plugin-battery-status" />
 <plugin name="cordova-plugin-camera" spec="3.0.0" />
-<plugin name="cordova-plugin-media-capture" spec="2.0.0" />
+<plugin name="cordova-plugin-media-capture" spec="3.0.0" />
 <plugin name="cordova-plugin-console" />
 <plugin name="cordova-plugin-contacts" />
 <plugin name="cordova-plugin-device" />
