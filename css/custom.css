@@ -13,7 +13,7 @@ margin-top: 5px !important;
 }
 .navbar-brand {
 float: inherit !important;
-text-align: center !important;
+text-align: left !important;
 }
 .btn_menu_row {
 margin-bottom: 10px;
@@ -110,3 +110,5 @@ max-width: 100% !important; height: auto !important;
 text-decoration: none;
 margin-bottom: 20px;
 }
+
+.topnavbar .navbar-header .brand-logo { display: block; padding: 5px 15px; }
