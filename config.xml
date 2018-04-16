@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tk.dia-d.app" version="0.0.1">
-<name>Dia D</name>
+<name>Evidencia Electoral</name>
 <description>tk.dia-d.app</description>
-<author href="http://app.dia-d.tk" email="soporte@dia-d.tk">Evidencia Dia D</author>
+<author href="http://app.dia-d.tk" email="soporte@dia-d.tk">Yo</author>
 
 <!-- content src="index.html"/ -->
 <!--
