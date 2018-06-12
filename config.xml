@@ -69,7 +69,6 @@
 <plugin name="cordova-plugin-vibration"/>
 <plugin name="cordova-plugin-android-permissions"/>
 <plugin name="cordova-plugin-imei"/>
-<plugin name="cordova-plugin-exitapp2"/>
 
 <plugin name="cordova-plugin-geolocation">
 <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="Posicionamiento en el Mapa" />
