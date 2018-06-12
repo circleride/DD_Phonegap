@@ -1,8 +1,8 @@
 .topnavbar {
 border: 0;
-background-color: #9C9352 !important;
-background-image: -webkit-linear-gradient(left, #9C9352,#9C9352);
-background-image: linear-gradient(90deg, #9C9352 0, #9C9352);
+background-color: #9e9e9e !important;
+background-image: -webkit-linear-gradient(left, #9e9e9e,#9e9e9e);
+background-image: linear-gradient(90deg, #9e9e9e 0, #9e9e9e);
 background-repeat: repeat-x;
 /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff23b7e5', endColorstr='#ff51c6ea', GradientType=1); */
 }
