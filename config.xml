@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.evidenciaelectotal.app" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.evidenciaelectoral.app" version="0.0.1">
 <name>Evidencia Electoral</name>
 <description>tk.dia-d.app</description>
-<author href="http://app.evidenciaelectotal.com" email="soporte@evidenciaelectotal.com">Yo</author>
+<author href="http://app.evidenciaelectoral.com" email="soporte@evidenciaelectoral.com">Yo</author>
 
 <!-- content src="index.html"/ -->
 <!--
@@ -76,7 +76,7 @@
 
 <gap:plugin name="cordova-plugin-x-toast" source="npm" />
 <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
-<param name="URL_SCHEME" value="evidenciaelectotal" />
+<param name="URL_SCHEME" value="evidenciaelectoral" />
 </gap:plugin>
 
 <!-- <plugin name="phonegap-plugin-push" spec="~2.0.0" source="npm"> spec="~1.4.5" 930456109326 -->
