@@ -49,16 +49,15 @@
 <!-- <plugin name="cordova-plugin-device-motion" />
 <plugin name="cordova-plugin-device-orientation" /> -->
 <plugin name="cordova-plugin-dialogs" />
+<plugin name="cordova-plugin-camera" source="npm" />
+<plugin name="cordova-plugin-media-capture" source="npm" />
 <plugin name="cordova-plugin-media" source="npm" />
-
 <!--  spec="~4.3.3"  spec="~4.0.0" -->
 <!--<plugin name="cordova-plugin-file" source="npm" />-->
 <!-- <plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.3" /> -->
-<plugin name="cordova-plugin-media-capture" source="npm" spec="1.4.3"/>
-<plugin name="cordova-plugin-file-transfer" spec="~1.6.3" />
-<plugin name="cordova-plugin-file" source="npm" spec="^5.0.0"/>
 
-<plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
+<plugin name="cordova-plugin-file-transfer" spec="" />
+<plugin name="cordova-plugin-file" source="npm" spec="" />
 
 <plugin name="cordova-plugin-geolocation" />
 <plugin name="cordova-plugin-inappbrowser" />
