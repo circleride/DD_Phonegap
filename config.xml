@@ -56,7 +56,7 @@
 <!--<plugin name="cordova-plugin-file" source="npm" />-->
 <!-- <plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.3" /> -->
 
-<plugin name="cordova-plugin-file-transfer" spec="~1.7.1" />
+<!-- <plugin name="cordova-plugin-file-transfer" spec="~1.7.1" />-->
 <plugin name="cordova-plugin-file" source="npm" spec="~5.0.0" />
 
 <plugin name="cordova-plugin-geolocation" />
