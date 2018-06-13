@@ -79,15 +79,15 @@
 <param name="URL_SCHEME" value="evidenciaelectoral" />
 </gap:plugin>
 
-<!-- <plugin name="phonegap-plugin-push" spec="~2.0.0" source="npm"> spec="~1.4.5" 930456109326 -->
+<!-- <plugin name="phonegap-plugin-push" spec="~2.0.0" source="npm"> spec="~1.4.5" -->
 <plugin name="phonegap-plugin-push" source="npm" spec="~2.0.0">
-<param name="SENDER_ID" value="674000239674" />
+<param name="SENDER_ID" value="2640760039" />
 </plugin>
 <platform name="android">
-  <resource-file src="google-services.json" target="google-services.json" />
+<resource-file src="google-services.json" target="google-services.json" />
 </platform>
 <platform name="ios">
-  <resource-file src="GoogleService-Info.plist" />
+<resource-file src="GoogleService-Info.plist" target="GoogleService-Info.plist" />
 </platform>
 
 <!---<plugin name="com.phonegap.plugins.barcodescanner" />-->

@@ -1,31 +1,31 @@
 {
   "project_info": {
-    "project_number": "674000239674",
-    "firebase_url": "https://alertaciudadana-tam.firebaseio.com",
-    "project_id": "alertaciudadana-tam",
-    "storage_bucket": "alertaciudadana-tam.appspot.com"
+    "project_number": "2640760039",
+    "firebase_url": "https://evidenciaelectoral.firebaseio.com",
+    "project_id": "evidenciaelectoral",
+    "storage_bucket": "evidenciaelectoral.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:674000239674:android:36d79e66e7b4ec5a",
+        "mobilesdk_app_id": "1:2640760039:android:e08c5684b2ea0215",
         "android_client_info": {
-          "package_name": "com.evidenciaelectotal.app"
+          "package_name": "com.evidenciaelectoral.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "674000239674-a87ov2v8chfuaidomqrl98qaco18p8aq.apps.googleusercontent.com",
+          "client_id": "2640760039-th0bn9klnhoheia0ppnpsh11bnidmvon.apps.googleusercontent.com",
           "client_type": 3
         },
         {
-          "client_id": "674000239674-a87ov2v8chfuaidomqrl98qaco18p8aq.apps.googleusercontent.com",
+          "client_id": "2640760039-th0bn9klnhoheia0ppnpsh11bnidmvon.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB5JP06jFgNO6lUAFEkM5nOMPaQuUgODIg"
+          "current_key": "AIzaSyAyt3E5bgqoROeTDQsmTGsaxpdFPvgiRvg"
         }
       ],
       "services": {
