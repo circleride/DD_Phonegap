@@ -101,19 +101,19 @@
 <string>100</string>
 </gap:config-file>
 <edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Pulse en Permitir</string>
+    <string>Permitir para grabar el incidente</string>
 </edit-config>
 <edit-config target="NSMicrophoneUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Pulse en Permitir</string>
+    <string>Permitir para registrar audio del incidente</string>
 </edit-config>
 <edit-config target="NSPhotoLibraryUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Pulse en Permitir</string>
+    <string>El video se guardará en su galería</string>
 </edit-config>
 <edit-config target="NSLocationWhenInUseUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Pulse en Permitir</string>
+    <string>Permitir para localizar el lugar del incidente</string>
 </edit-config>
 <edit-config target="NSPhotoLibraryAddUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Pulse en Permitir</string>
+    <string>El video se guardará en su galería</string>
 </edit-config>
 
 <gap:plugin name="cordova-plugin-flashlight" source="npm" />
