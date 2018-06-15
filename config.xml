@@ -101,21 +101,20 @@
 <string>100</string>
 </gap:config-file>
 <edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Permitir para grabar el incidente</string>
+<string>Permitir solo para grabar el incidente</string>
 </edit-config>
 <edit-config target="NSMicrophoneUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Permitir para registrar audio del incidente</string>
-</edit-config>
-<edit-config target="NSPhotoLibraryUsageDescription" file="*-Info.plist" mode="merge">
-    <string>El video se guardará en su galería</string>
+<string>Permitir solo para registrar audio del incidente</string>
 </edit-config>
 <edit-config target="NSLocationWhenInUseUsageDescription" file="*-Info.plist" mode="merge">
-    <string>Permitir para localizar el lugar del incidente</string>
+<string>Permitir solo para localizar el lugar del incidente</string>
 </edit-config>
 <edit-config target="NSPhotoLibraryAddUsageDescription" file="*-Info.plist" mode="merge">
-    <string>El video se guardará en su galería</string>
+<string>Permitir solo para guardar el video</string>
 </edit-config>
-
+<edit-config target="NSPhotoLibraryUsageDescription" file="*-Info.plist" mode="merge">
+<string>Permitir solo para guardar el video</string>
+</edit-config>
 <gap:plugin name="cordova-plugin-flashlight" source="npm" />
 <!-- <plugin name="cordova-plugin-health" source="npm" />
 <plugin spec="https://github.com/Litekey/heartbeat-cordova-plugin.git" source="git" /> -->
